@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-I'm really not too sure what's supposed to go here? Here's some random stats while I'm figuring that out :)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pradyungn&theme=nord&background=0F0F0F&border=0f0f0f&stroke=CACACA&ring=ACA98A&fire=CEB188&currStreakNum=F0F0F0&sideNums=E7E7E7E7&currStreakLabel=CACACA&sideLabels=CACACA&dates=8A98AC)](https://git.io/streak-stats)
-
+I don't really understand the purpose of this, so maybe watch a movie while I try to figure it out. (I recommend Manmadhudu)
 <!--
 **pradyungn/pradyungn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
