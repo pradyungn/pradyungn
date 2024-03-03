@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-I don't really understand the purpose of this, so maybe watch a movie while I try to figure it out. (I recommend Sita Ramam[^1])
 <!--
+I don't really understand the purpose of this, so maybe watch a movie while I try to figure it out. (I recommend Sita Ramam[^1])
+
 **pradyungn/pradyungn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [^1]: As of September 12th, 2022, my top movie recommendation of 17 years has changed. A monumental event, no doubt.
+-->
