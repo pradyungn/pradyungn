@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 [^1]: As of September 12th, 2022, my top movie recommendation of 17 years has changed. A monumental event, no doubt.
 -->
+
+You can find me across the internet masquerading as various AI-generated cats (usually wearing lab coats).
