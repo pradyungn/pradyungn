@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 -->
 
 You can find me across the internet masquerading as various cats (usually wearing lab coats).
+
+This account is now primarily reserved for academic use. My side projects are usually found on GitLab.
