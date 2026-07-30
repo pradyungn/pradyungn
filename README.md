@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 [^1]: As of September 12th, 2022, my top movie recommendation of 17 years has changed. A monumental event, no doubt.
 -->
 
-You can find me across the internet masquerading as various cats (sometimes wearing lab coats).
+You can find me across the internet masquerading as various cats (typically variants of the Russian Blue). If it isn't a cat, it probably isn't me!
 
 This account is now primarily reserved for academic use, so repos here may be stale. Side projects and tooling that I maintain can usually be found on GitLab.
